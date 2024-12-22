@@ -49,11 +49,11 @@ Para instalar la aplicación, sigue estos pasos:
 
 ### Pantalla de Inicio
 
-![Pantalla de Inicio]([https://example.com/image1.png](https://img.freepik.com/vector-premium/conjunto-pantallas-inicio-sesion-ui-ux-gui-pantalla-diferentes-aplicaciones_504060-299.jpg?w=1060))
+![Pantalla de Inicio](https://freepngimg.com/thumb/the_legend_of_zelda/21249-6-zelda-link-hd.png)
 
 ### Perfil de Usuario
 
-![Perfil de Usuario]([https://example.com/image2.png](https://s.tmimgcdn.com/scr/800x500/329000/signup-user-interface-elements-for-any-design-flat-design-colored-ui-kit-collection_329008-original.jpg))
+![Perfil de Usuario](https://freepngimg.com/thumb/xmen/21262-6-wolverine-image.png)
 
 ## Hiperlinks Útiles
 
